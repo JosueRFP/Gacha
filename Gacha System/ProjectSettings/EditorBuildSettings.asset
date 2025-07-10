@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GachaScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/GachaSingleAnimation.unity
+    guid: ac8992c60d762044abc932c1ac18dba2
+  - enabled: 1
+    path: Assets/Scenes/GachaMultipleAnimation.unity
+    guid: 79ca1e1b9a8e0044c8b322c934cb3853
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
